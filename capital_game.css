@@ -1,0 +1,26 @@
+body {
+	background-color: #eee;
+}
+
+h1 {
+	font-family: 'Source Serif Pro', serif;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+th {
+	padding: 3px;
+	border-bottom: 1px solid black;
+}
+
+td {
+	padding: 3px;
+	border-bottom: 1px solid #c5c5c5;
+}
+.ui-autocomplete { 
+	overflow: auto;
+	max-height: 200px;
+	text-align: left; 
+}
