@@ -3,10 +3,15 @@
 #### Final Interface
 1. Representative Screenshots
 - Menu bar: Specialized UI component for mobile website. We designed it considering proper size, shape and color. We can navigate through all the primary pages in our website. 
+
+[]()
 - Find Guide and Quest page: Bootstrap Accordion and Carousel UI component worked well for this page. Users can easily skim through all the photos the guides provide and guess about what the users would do for the quests. 
 - My quest page : User can take a photo and upload it to prove that they completed their individual quest. In addition to this, user can write simple diary about their feelings while completing the quest. 
+
+[]()
 - Travel Summary: Provide the users a complete information of all their quests and achievements gained from their trip.
 
+[]()
 2. Quality Arguments
 
 Menu bar
@@ -32,6 +37,7 @@ In first implementation, we did not add any visual feedback when the users uploa
 #### Individual Reflection
 1. Yoseph Kurnia Soenggoro
 
+My main contribution to the project is designing and implementing the travel summary page, that provides the complete information of the user's trip. For the group discussion, I think our members provide a lot of fresh and quality ideas into every discussion and we always learn a lot from each other and other people during each step of the designing process (from DP1 to DP8). Despite all the positive aspects, there are also some common negative aspects, especially difficulties in finding common times of meeting. This is because every one of us are busy with our own schedule, yet the course demands a lot of collaboration within our project, from doing interviews, writing reports, to implementing codes, there tend to be some problems in collaborating physically. Nevertheless, we managed to resolve it by doing one-to-two-hours-meeting once or twice a week and layout the divison of work among members. Then, the rest of the work was done individually online. In this context, the meeting played a crucial role in building consistent ideas within our group members and has helped us in progressing our project smoothly. Despite the short duration of weekly meetings, we still managed to come out with unique and original ideas which were used within the project. These deep insights are usually gained through either creating a creative environment, by generating various ideas within limited amount of time, or interviews with some participants that spent some time in trying out our prototype. As a result, it has given us a great result and product in the end, which many people enjoys during the project showcase. Nevertheless, more improvements in the future are needed in order to increase the value of the website if it is going to be used for business purpose. Overall, I am very satisfied with our group work and the experience are valuable and have contributed a lot within my personal development.
 
 2. Kyungmo Kim
 
