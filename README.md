@@ -31,6 +31,28 @@ In first implementation, we did not add any visual feedback when the users uploa
 - Add the history on mypage to look the past quest that user completed. 
 #### Individual Reflection
 1. Yoseph Kurnia Soenggoro
-1. Kyungmo Kim
-1. Hajun Kim
-1. Minyep Choi
+2. Kyungmo Kim
+*What worked well and not in your team? How did you overcome any hurdle in teamwork? What lesson about teamwork did you learn that you might apply to your next team project?*
+ 
+What worked well was each team member accomplished well with their own part. Because our web page has consecutive structure (finding quest -> complete quest -> check the result), free rider in the team could ruin everything.
+Thankfully, Every team member faithfully participated the regular meeting twice a week, and enthusiastically shared their idea, and implemented their own part.
+ 
+The problem of teamwork is that separation of the work makes the difficulty on iteration part, because we did not exactly know how does other colleagues’ web page works.  For example, when I find some defect or some part that can be improved on colleagues’ part, I could not solve this issue by myself, but told my colleague ‘I think it would be better if you fix this part.’ As a sequence, it required more communications between team members, and time. However, I felt that meeting twice a week was not enough for solving this problem, because improvement  is a difficult process, but also miscommunication between team member caused the result of improvement was different with my initial intent.
+Therefore, we learned that the most important part of teamwork is to discuss and share about ideas more often in order to close the gap between ‘my suggestion’ and ‘ colleagues’ actual implementation’. This would make more satisfying and high - quality result.  
+ 
+Through the team-based design project experience, what did you learn about the user-centered design process and web-based GUI implementation?
+ 
+The most impressive experience while conducting user experiments was that what we thought user-centered was NOT user-centered. I initially thought that ‘Enjoying the trip while complete quests’ was easy concept to understand, and plain for everyone. However, when we tested low-fi prototype, I was a little bit disappointed because user seemed too confused than what I expected. At that time, I realized that I became too tolerant about concept of user-centered design.
+I reckon the reason why this happened was because the unfamiliarity of web-based GUI implementation makes our goal toward ‘barely functionally working web page’, not ‘user-centered web page.’
+Therefore, the most valuable lesson from this is that foundation of user-centered web page is the implementation skill. If we afford to think about usability issues while implementation process, then it will lead to a better user-centered web page design.
+ 
+Another lesson is from user-centered design process is that making prototype helped to decide the direction of implementation, but it sometimes hinders the flexibility of implementation.
+While making our web page, I also made personal web page, which shows box office result of movies (you can check this web page on
+http://ssal.sparcs.org:33219/). I also made low – fi prototype when I made this web page, but I changed lots of features from prototype because I found better layouts whenever searching about the design. Thanks to not following prototype, I felt less burden about changing the layout, and I can save more time. 
+However, the reason why I feel that not making low – fi prototype can be good is just because I made my personal web page just for fun, and also did not conduct user experiment iteration. Therefore, I have to build up my experiences on making an web page, to think about this issues more deeply. 
+ 
+At any rate, The most important lesson that I learned is that users are always right. Reason for making simple prototype is for saving times in order to conduct more user testing, and reason for doing iterations is because user hate previous design. I will always think about this lesson. Making an web page is just a skin deep. What makes web page valuable is users, and This is the reason why we learned HCI.
+
+3. Hajun Kim
+Thank you for our professor and TAs for preparing this exciting course. For all design projects, we decided to “divide and conquer” except for some parts that needed discussions. 
+4. Minyep Choi
