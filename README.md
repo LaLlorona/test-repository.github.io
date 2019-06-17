@@ -31,7 +31,10 @@ In first implementation, we did not add any visual feedback when the users uploa
 - Add the history on mypage to look the past quest that user completed. 
 #### Individual Reflection
 1. Yoseph Kurnia Soenggoro
+
+
 2. Kyungmo Kim
+
 *What worked well and not in your team? How did you overcome any hurdle in teamwork? What lesson about teamwork did you learn that you might apply to your next team project?*
  
 What worked well was each team member accomplished well with their own part. Because our web page has consecutive structure (finding quest -> complete quest -> check the result), free rider in the team could ruin everything.
@@ -54,5 +57,8 @@ However, the reason why I feel that not making low – fi prototype can be good 
 At any rate, The most important lesson that I learned is that users are always right. Reason for making simple prototype is for saving times in order to conduct more user testing, and reason for doing iterations is because user hate previous design. I will always think about this lesson. Making an web page is just a skin deep. What makes web page valuable is users, and This is the reason why we learned HCI.
 
 3. Hajun Kim
+
 Thank you for our professor and TAs for preparing this exciting course. For all design projects, we decided to “divide and conquer” except for some parts that needed discussions. 
+
 4. Minyep Choi
+
