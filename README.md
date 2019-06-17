@@ -7,7 +7,7 @@
 - My quest page : User can take a photo and upload it to prove that they completed their individual quest. In addition to this, user can write simple diary about their feelings while completing the quest. 
 - Travel Summary: Provide the users a complete information of all their quests and achievements gained from their trip.
 
-1. Quality Arguments
+2. Quality Arguments
 
 Menu bar
 Navigation is a highly essential element to have within a website and without it, the users will have trouble in searching or achieving their objectives. In our website, we implement such feature on the menu bar. The menu bar is the central feature of our website because it provides the users a hub to navigate within our website in easy and simple manner. Since the menu bar exists within every pages in our website, it provides the user flexibility to ‘move’ freely from pages to pages. This is important because during the trip, the users might discard some of their initially chosen quests and might want to add additional quests as replacements. By using the menu bar, the possibility exists.
