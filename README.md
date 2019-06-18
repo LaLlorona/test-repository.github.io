@@ -6,11 +6,15 @@
 
 ![](./img/img1.png)
 - Find Guide and Quest page: Bootstrap Accordion and Carousel UI component worked well for this page. Users can easily skim through all the photos the guides provide and guess about what the users would do for the quests. 
+
 ![](./img/img2.png)
 - My quest page : User can take a photo and upload it to prove that they completed their individual quest. In addition to this, user can write simple diary about their feelings while completing the quest. 
+
 ![](./img/img3.png)
+
 ![](./img/img4.png)
 - Travel Summary: Provide the users a complete information of all their quests and achievements gained from their trip.
+
 ![](./img/img5.png)
 
 2. Quality Arguments
@@ -35,13 +39,17 @@ In first implementation, we did not add any visual feedback when the users uploa
 -  Disable button when user did not upload the photo
 
 Before
+
 ![](./img/img6.png)
 
 After
+
 ![](./img/img7.png)
 - “Add Quest” Button in “Find Your Guide & Quest” page was not working properly. It sometimes did not appear and presented some inconsistency with the database. We fixed the issue.
+
 ![](./img/img8.png)
 - Add the history on mypage to look the past quest that user completed.
+
 ![](./img/img9.png)
 #### Individual Reflection
 1. Yoseph Kurnia Soenggoro
