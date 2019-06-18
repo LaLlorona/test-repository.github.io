@@ -8,10 +8,10 @@
 - Find Guide and Quest page: Bootstrap Accordion and Carousel UI component worked well for this page. Users can easily skim through all the photos the guides provide and guess about what the users would do for the quests. 
 - My quest page : User can take a photo and upload it to prove that they completed their individual quest. In addition to this, user can write simple diary about their feelings while completing the quest. 
 
-[](./img/img2.png)
+![](./img/img2.png)
 - Travel Summary: Provide the users a complete information of all their quests and achievements gained from their trip.
 
-[](./img/img3.png)
+![](./img/img3.png)
 2. Quality Arguments
 
 Menu bar
